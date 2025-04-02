@@ -1,3 +1,6 @@
 welcome to the sample github actions workflow setup
 
-Added first workflow
+
+added 2nd workflow
+
+
