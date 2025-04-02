@@ -3,8 +3,8 @@ name: "multi event / workflow"
 on:
   push:      #event
     branches:
-        -master
-        -test
+        - master
+        - test
 
 jobs:
     on-push:
